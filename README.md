@@ -203,7 +203,7 @@ Frequency = 1 / 1000 units (depends on timer clock frequency, typically it will 
 ![alt text](p1.png)
 
 
-FOR PULSE AT 700
+FOR PULSE AT 600
 
 ```
 TON = 600 units
